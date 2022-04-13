@@ -243,6 +243,7 @@ a:hover {
     padding:10px 20px;
     display: inline-block;
     margin: 8px 34.5%;
+    border: 0px solid;
 }
 #home .slide.active .caption button{
     opacity: 0;
