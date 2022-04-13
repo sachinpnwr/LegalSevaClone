@@ -163,7 +163,7 @@ function changePage(){
 
 function resetTimer1() {
     clearInterval(timer1);
-    timer = setInterval(autoPlay1, 4000);
+    timer1 = setInterval(autoPlay1, 4000);
 }
 
 function autoPlay1() {
