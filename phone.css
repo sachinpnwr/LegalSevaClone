@@ -116,6 +116,7 @@ a:hover {
 }
 .content{
     flex-direction: column-reverse;
+    align-items: center;
 }
 .right-side{
     margin: 0;

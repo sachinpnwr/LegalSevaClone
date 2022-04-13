@@ -398,7 +398,7 @@ a:hover {
     text-align: center;
     height: fit-content;
     min-height: 100vh;
-    /* padding: 30px 0 0 0; */
+    padding: 0px 0 10vh 0;
 }
 #testimonial h1{
     color: white;
@@ -543,7 +543,7 @@ a:hover {
     min-height: fit-content;
     flex-direction: column;
 }
-.contact-cont .watermark {
+.contact-cont .watermark2 {
     bottom: 0;
     height: 440px;
 }
@@ -552,7 +552,7 @@ a:hover {
 }
 .content{
     display: flex;
-    width: 70vw;
+    width: 80vw;
     margin: 5vh 0;
 }
 .left-side{
@@ -573,7 +573,7 @@ a:hover {
     margin: 14px;
 }
 .details i{
-    font-size: 30px;
+    font-size: 20px;
     color: #ffffff;
     margin-bottom: 10px;
 }
@@ -616,7 +616,8 @@ a:hover {
     margin: 12px 40% 0;
     padding:6px 4%;
     border: 1px solid white;
-    border-radius: 10px;
+    border-radius: 7px;
+    font-size: 17px;
 }
 .content .left-side::before {
     content: '';
