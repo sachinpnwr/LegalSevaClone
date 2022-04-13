@@ -73,7 +73,8 @@ a:hover {
     padding: 35px 10%;
 }
 #home .caption button{
-    width: 45vw;
+    width: auto;
+    min-width: 152px;
 }
 .title{
     font-size: 30px;

@@ -245,8 +245,8 @@ a:hover {
 }
 #home .slide.active .caption button{
     opacity: 0;
-    animation: popUp .9s ease forwards;
-    animation-delay: 1.5s;
+    animation: popUp .5s ease forwards;
+    animation-delay: .9s;
 }
 @keyframes popUp {
     0%{
