@@ -111,6 +111,7 @@ header {
 
 #logo img {
     height: 6vh;
+    padding: 0 10px 0 20px;
     /* width: 6vh; */
 }
 
