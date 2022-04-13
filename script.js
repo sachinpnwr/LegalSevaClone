@@ -2,7 +2,7 @@ var wlcm_bg = document.getElementsByClassName('wlcm-bg')[0]
 setTimeout(() => {
     wlcm_bg.classList.add('close')
     console.log('hey')
-}, 00)
+},3000)
 
 
 const hamburger = document.querySelector('.hamburger');
