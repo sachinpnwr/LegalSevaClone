@@ -639,4 +639,13 @@ form{
     background: #ffffff;
 }
 
+footer{
+    background: black;
+}
+
+footer p{
+    color: #fff;
+    text-align: center;
+    font-size: 0.8rem;
+}
 
